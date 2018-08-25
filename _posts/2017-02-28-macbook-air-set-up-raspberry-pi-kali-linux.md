@@ -129,3 +129,9 @@ sudo tightvncserver :1
 [画面同步](http://etrd.org/2017/02/20/%E4%BD%BF%E7%94%A8VNCviewer%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84HDMI%E8%BE%93%E5%87%BA%E6%A1%8C%E9%9D%A2/)
 
 照着设置了一下，可以同步界面了。
+
+**相关设置**
+[shadowsocks](http://www.freebuf.com/sectool/123931.html)
+[安装中文字库](http://shumeipai.nxez.com/2016/03/13/how-to-make-raspberry-pi-display-chinese.html)
+[kali linux 完整版](https://www.youtube.com/watch?v=3C-TOBsgHME)
+[搭建nas](http://shumeipai.nxez.com/2013/08/24/install-nas-on-raspberrypi.html)
