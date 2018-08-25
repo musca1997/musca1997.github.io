@@ -1,10 +1,96 @@
 ---
 title: 从《天使之卵》到《攻壳机动队》
 key: 20170503
-tags: 电影
+tags: 电影 film
 ---
 
 ![](https://cdn.discordapp.com/attachments/447635828496138241/482847426638512138/p42440723.png)
+
+#From Angel’s Egg to Ghost in the Shell
+
+
+**Angel’s Egg**
+
+In the anime movie Angel’s Egg, a girl walked around in the wasted city with an egg in her arms. The egg was her emotional anchor. She had always believed that a bird would hatch out one day and bring happiness. But we don’t know what was actually inside until a boy with a sword came to break it.
+
+In Oshii Mamoru’s interview, he said that his work Angel’s Egg was inspired by the bible. “People in the Noah’s ark flied a bird and waited but they didn’t get anything in return. Humans died and the only person alive was that girl. She wandered in the freezing time and then the boy with a sword appeared.”
+
+The boy broke the egg secretly on a night and found there was nothing in the egg. When the girl got up she found that her egg was already broken. She couldn’t believe that actually happened and started to run, but unfortunately she fell off to the water and then died. When she died, many eggs appeared and floated.
+
+In the last scene, we can find that the planet the girl was on was just a small place of the universe.
+
+
+**Religion**
+
+Archaeologists found some bones covered with red powder and gravel in old tombs of upper cave men, and that they were probably meant to send wishes to let them die peacefully. Just because there is always an end to a life, humans are fond of imagining life before and after death.
+
+Different schools have different views on the origin of religions, and religions were closely related to politics in the past, often used for social stability by rulers. Different nations formed a variety of conscious communities bonded with specific beliefs.
+
+Before the Reformation, the churches were always above the secular monarchy. The idea of humanism in the 15th century gradually turned people’s attention from God to themselves and during the age of Enlightenment they began to doubt God.
+
+After the Reformation, the power of religions were gradually distracted. The coming industrial revolution and the development of science made people greedily want to create the new cognitive norms of the universe.
+In the movie Angel’s Egg, the egg the girl was holding had the same meanings of the religions in our history. It filled her fear of death and brought hope.
+
+The boy’s action to break the egg were just like Nietzsche announcement of God’s death. And then humans suddenly needed to face the nihilistic state without their beliefs on religions.
+
+After the ‘death of God’, those who are unwilling to take nothingness started trying to find out more about the rules behind the world, and that’s what eggs’ appearing after the girl’s death meant.
+
+
+**Ghost in the Shell and Existentialism**
+
+“Fear, restlessness, loneliness, darkness, and perhaps hope.”
+
+In the 1995 version of Ghost in the Shell, those words almost described people’s mental state after the ‘death of God’. In this version, it also quoted a lot of sentences related to existentialism.
+
+The devastation of French intellectuals in World War II made Existentialism more popular. They thought that the world was an absurd, and fears the existence brought revealed the existence of men, “One must imagine Sisyphos happy.”
+
+The questions of existence had made the ontological questions come out too. In Ghost in the Shell, these ancient problems became more specific as a cyborg: Am “I” made of my own memories and experiences? And if other people’s memories were implanted in my brain, Am “I” still “I”?
+
+Motoko was a cyborg, her parents died of car accident and she was born without a body. She is a only a ‘ghost’, and when she was transplanted into the ‘shell’, she became the whole cyborg.
+
+Puppeteer was born from the ocean of information. It was firstly only a ‘shell’, but it finally got the ‘ghost’ through the continuous connection to the network.
+
+
+**Dualism**
+
+Dualism is a kind of ontology, and Descartes’ dualistic theory is that “people are composed of two parts — the mind and flesh”.
+
+Ghost in the Machine is a concept from Gilbert Ryle’s book in order to satire Descartes’ dualism. And the anime movie’s name Ghost in the Shell was taken from this.
+
+
+**Postmodernism**
+
+The scene when Motoko was looking into her reflection on the water made me think of Plato’s Allegory of the Cave. In Plato’s theory, there are two kind of worlds. One world is Ideal World, and the other is Phenomenal World. Plato’s Allegory of the Cave means that humans are like prisoners, limited by their senses, so that the world they sense is just the projection of the world.
+
+A similar concept was used in the twentieth century by Saussure in linguistic research, which is what we’re familiar now — structuralism. Saussure divided the langue and parole in the study of linguistics. He thought that langue was a product of abstract memory, a system that was stored in human minds and due to its sociality it was out of individual will. And parole was the personal and individual use of langue.
+So the study of the system of the world ontology has become similar to the study of the symbol of langue, that is, “semiotics”.
+
+The post-structualism after was more widely used in politics, believing that the world we live is only a social construct, such as post-structural feminists thinking gender is a construct and people criticizing western centralism.
+
+This is a part of post-modernism and, in fact, a more popular ideology among young people nowadays in first world countries. They use those terms as the theoretical basis for the Black movement, the feminist movement and the LGBTQ movement.
+
+At the same time, the side effects of post-modernism appeared. Relativism it brought made a moral blankness in people’s mind and it exacerbated the perception of the nihilistic state after the “death of God”, and therefore people feel more empty and weak.
+
+We can also see that from Motoko’s confusions, and also in Oshii’s early work Angel’s Egg.
+
+
+**More “Post” than Post-Humans**
+
+There are so many films about Cyborg since last century. But we can’t simply take Ghost in the Shell as a general Cyborg movie.
+
+The final choice of Motoko to combine with Puppeteer was the culmination of Ghost in the Shell I. It is also the reason why Ghost in the Shell is not just a Cyborg movie. In this scene Motoko chose to give up the her “I” (Ego) she’d been struggled with and made the network wider.
+
+This was actually a vision and a wish for dissolution of mankind’s pain from struggling with nothingness. And what I can think from real life about it is that there might be a combination of quantum physics and post-human.
+
+In 2004, Ghost in the Shell II was a follow-up to the society in 1995’s Ghost in the Shell that has not yet been successfully converted every person to Motoko-Puppeteer-like cyborg and was still a retell of the original line.
+
+On story telling, these two kinds of worlds was connected by the Batou and Motoko’s love line, and it can be said that it’s also a movie’s strategy to meet our ordinary human feelings.
+
+I personally think that Batou has a special feeling on Motoko even though they’re in different time and space line after Motoko combined with Puppeteer. What Motoko said before she went offline broke away the sense of alienation between people created in Ghost in the Shell and the nihilistic atmosphere created in Angel’s Egg:
+
+“Batou, remember that whenever you connect to the network, I’m with you.”
+
+
 
 **天使之卵**
 
