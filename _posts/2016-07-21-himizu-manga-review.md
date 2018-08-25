@@ -9,7 +9,9 @@ tags: 漫画 manga
 
 I finished this manga in 3hours, here's my opinion. (Here will be spoilers, be careful.)
 
-Some people would take theories of Freud's to write an interpretation, but in my opinion it's actually about a point of view about fatalism, which links closely to Japanese culture.
+In my opinion it's actually about a point of view about fatalism, which links closely to Japanese culture.
+
+<!--more-->
 
 It's about a teen who was born in a poor family whose father was in debt and ran away, and then his mother eloped with her new boyfriend. The main character's dream was to be a simple and common person, but he found it really hard for him after one day he killed his father. After that he was always in a suicidal state, and also want to kill people who also killed people. And finally it led to his own suicide.
 
