@@ -12,6 +12,8 @@ tags: 电影
 
  A Man Asleep（法語：Un Homme Qui Dort）是 Georges Perec用第二人稱視角寫的關於一個25歲的社會學專業學生考完試后決定嘗試一種與世隔絕的生活狀態的故事，這個小說由Éditions Denoël出版于1967年，後來在1974年被拍成電影。
 
+<!--more-->
+
 ![](https://cdn.discordapp.com/attachments/447635828496138241/482850240009994240/p23033117.png)
 
 ## 二
