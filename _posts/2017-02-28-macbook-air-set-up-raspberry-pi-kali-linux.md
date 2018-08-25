@@ -34,7 +34,7 @@ Macbook Air 系统版本 macOs Sierra 10.12
 
 开始写入
 
-1. 在Terminal里，输入：
+在Terminal里，输入：
 
 ```
 sudo diskutil unmountDisk /dev/disk[n]
@@ -45,7 +45,7 @@ sudo diskutil unmountDisk /dev/disk[n]
 sudo diskutil unmountDisk /dev/disk2
 ```
 
-1. 在Terminal输入：
+在Terminal输入：
 ```
 sudo dd bs=1m if=~/Downloads/这里写文件名.img of=/dev/rdisk[n]
 ```
@@ -61,13 +61,13 @@ sudo dd bs=1m if=~/Downloads/kali-2.1.2-rpi2.img of=/dev/rdisk2
 
 耐心等到提示已经写入完成
 
-1. ```
+```
 sudo diskutil eject /dev/disk2
 ```
 
 写入完成后在终端输入这个弹出tf卡就行了，disk2的名字记得替换成自己的
 
-1. 写入到此就结束了。拔出tf卡，装入树莓派，接上屏幕，启动。
+写入到此就结束了。拔出tf卡，装入树莓派，接上屏幕，启动。
 
 初始用户名是：root
 
@@ -104,17 +104,17 @@ mac上安装的是vnc viewer
 sudo apt-get install tightvncserver
 ```
 
-1. 修改vnc控制密码：
+2. 修改vnc控制密码：
 ```
 passwd tightvncserver
 ```
-1. 启动树莓派端vnc：
+3. 启动树莓派端vnc：
 ```
 sudo tightvncserver :1
 ```
 就会提示成功了，第一次一般线路是1
 
-1. 查看树莓派IP地址，连接：
+4. 查看树莓派IP地址，连接：
 
 直接进入自己家的路由器设置界面看树莓派的ip地址
 
