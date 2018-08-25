@@ -6,7 +6,7 @@ tags: 电影 film
 
 ![](https://cdn.discordapp.com/attachments/447635828496138241/482847426638512138/p42440723.png)
 
-#From Angel’s Egg to Ghost in the Shell
+# From Angel’s Egg to Ghost in the Shell
 
 
 **Angel’s Egg**
