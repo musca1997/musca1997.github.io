@@ -1,5 +1,5 @@
 ---
-title: 在树莓派3上安装开源游戏模拟器Lakka备忘
+title: 用Macbook Air给树莓派3装Kali Linux系统备忘在树莓派3上安装开源游戏模拟器Lakka备忘
 key: 20170228
 tags: 树莓派
 ---
@@ -9,10 +9,8 @@ Raspberry Pi 3
 
 Macbook Air 系统版本 macOs Sierra 10.12
 
-## 给tf卡写入Kali Linux
 
-
-**准备步骤**
+## 准备步骤
 
 1. 从Kali Linux官网下载兼容树莓派的镜像：https://www.offensive-security.com/kali-linux-arm-images/
 
@@ -22,7 +20,7 @@ Macbook Air 系统版本 macOs Sierra 10.12
 
 
 
-**查看tf卡在哪个disk上**
+## 查看tf卡在哪个disk上**
 
 1. 打开 Terminal
 
@@ -32,7 +30,8 @@ Macbook Air 系统版本 macOs Sierra 10.12
 
 1. 我的tf卡在disk2
 
-开始写入
+
+## 写入
 
 在Terminal里，输入：
 
@@ -84,7 +83,8 @@ sudo apt-get update
 
 （一定要注意是不是所有都提示update成功了，因为在国内用国外的源不太稳定，如果不成功可以再试一次，或者修改源的地址）
 
-一些可能比较重要的初始配置
+## 一些可能比较重要的初始配置
+
 其实我还没设置完，先记一些，接下来还有乱七八糟的就接着补上。
 
 · 修改管理员密码：
@@ -122,6 +122,7 @@ sudo tightvncserver :1
 
 至此，就可以在mac上远程操作树莓派了。
 
+## 画面同步
 但是这个时候问题又来了，现在得到的vnc画面是很简陋的，和树莓派hdmi接口输出的画面是不一样的，这个vnc只是一个类似于shell的功能，可以控制终端等等但是和连接了树莓派的显示屏上的画面上是不同步的。
 
 所以我就去群里问了这个问题，有人给了一个教程：
@@ -130,7 +131,7 @@ sudo tightvncserver :1
 
 照着设置了一下，可以同步界面了。
 
-**相关设置**
+## 相关设置
 [shadowsocks](http://www.freebuf.com/sectool/123931.html)
 [安装中文字库](http://shumeipai.nxez.com/2016/03/13/how-to-make-raspberry-pi-display-chinese.html)
 [kali linux 完整版](https://www.youtube.com/watch?v=3C-TOBsgHME)
