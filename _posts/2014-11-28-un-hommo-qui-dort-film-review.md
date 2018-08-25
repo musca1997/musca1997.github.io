@@ -7,12 +7,14 @@ tags: 电影
 
 "What secrets do you expect to find in your cracked mirror? And what truth in your face?"
 
-
+## 一
  今天突然想起幾個月前看掉的一部片，當時看了片之後順便找出原作也看了一遍。現在想到那個玩意兒還算挺冷門的，而且還算是能挖掘一些東西，所以就大概地搜了一下，試譯一點東西作練習并且分享。不過我什麼都不懂，也就隨便寫著玩，順便留著以後哪天自己無聊了找出來看，有錯誤還望指出。
 
  A Man Asleep（法語：Un Homme Qui Dort）是 Georges Perec用第二人稱視角寫的關於一個25歲的社會學專業學生考完試后決定嘗試一種與世隔絕的生活狀態的故事，這個小說由Éditions Denoël出版于1967年，後來在1974年被拍成電影。
 
 ![](https://cdn.discordapp.com/attachments/447635828496138241/482850240009994240/p23033117.png)
+
+## 二
 
  作者Georges Perec是波蘭猶太人的後裔，於1936年出生在巴黎，去世於1982年。他最為著名的書是Life: A User's Manual (法語：La Vie mode d'emploi)，出版於1978年。
 
@@ -26,6 +28,8 @@ tags: 电影
  There is no need for you to leave the house. Stay at your table and listen. Don't even listen, just wait. Don't even wait, be completely quiet and alone. The world will offer itself to you to be unmasked, it can't do otherwise, in raptures it will writhe before you.
 
  這本書讓我唯一有一點不滿的就是感覺就是有些段落有點像是在說教，而且再加上是用第二人稱寫的……但是整體上還好。
+
+## 三
 
  順便選一點之前摘的句子，自己試譯一下。附帶了自己的理解，可能有點主觀。水平渣，多多指教。
 
@@ -50,6 +54,8 @@ tags: 电影
  你變得無形、清澈、透明。你不再存在。你穿過逝去的小時，穿過日子的演替，穿過四季的隊列，穿過時間的河流，倖存了下來。你沒有帶上喜悅，也沒有帶上悲傷；沒有帶上未來，也沒有帶上過去——就像是水龍頭上意欲著陸的、不斷累積著的水滴——簡單直接，不言而喻。
 
 ![](https://cdn.discordapp.com/attachments/447635828496138241/482850302001807360/p23033525.png)
+
+## 四
 
  1974年電影版，導演是Bernard Queysanne和Georges Perec。
  1974年同年獲得讓·維果獎（Prix Jean Vigo）。
