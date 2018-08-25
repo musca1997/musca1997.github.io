@@ -1,59 +1,145 @@
-# ChangeLog
+# Change Log
 
-## 1.7.0 (2018-05-24)
+## 2.0.2 (2018-07-29)
 
-- Use Google Fonts CSS directly with preconnect
+### Enhancements
 
-## 1.6.1 (2018-04-09)
+- Highlight theme
+- Articles whit `sidebar.toc` support section navigator (previous and next navigator)
+- Aside Toc show immediately after page get ready (no more delay)
 
-- Fix lang attribute for post with external URL
+### Bug Fixes
 
-## 1.6.0 (2018-04-09)
+- Aside Toc may display error when scroll to bottom
 
-- Appropriately size h1s in the post body (#19)
-- Update code for Web Font Loader
-- Link external URL directly for each post (#20)
+## 2.0.1 (2018-07-07)
 
-## 1.5.0 (2017-12-27)
+> “All elements that respond to press should have a visual feedback when touched.”
+>
+> —TouchableWithoutFeedback in *React Native Docs*
 
-- Support tags (#17)
+### Enhancements
 
-## 1.4.2 (2017-11-21)
+- Some interaction details optimize: button and link add feedback when clicked, cancel button of input in archive layout, button focus style, etc
 
-- Add some styling for tables (#15)
+### Bug Fixes
 
-## 1.4.1 (2017-11-03)
+- `mathjax` and `mermaid` config may not work
 
-- Disable comments by default
+## 2.0.0 (2018-07-01)
 
-## 1.4.0 (2017-11-01)
+Breaking changes, please check [Update form 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-form-1-to-2) for details
 
-- Support YAML list for keywords (Fix #7)
-- Add ability to provide a comments provider for pages and posts (#10)
+### Enhancements
 
-## 1.3.0 (2017-02-20)
+- Authors
+- License
+- New layouts (page, article, landing, etc)
 
-- Fix typos of the theme description
-- Add powered-by links to the footer
+## 1.5.0 (2018-03-18)
 
-## 1.2.1 (2017-01-23)
+### Enhancements
 
-- Make theme can be overridden (#2)
+- `text_color_theme` config
+- Long pagination
+- Additional styles (Alert, Image)
+- Mathjax autoNumber config (@liao961120)
+- Article heading anchor
+- Previous and next post
+- Search
 
-## 1.2.0 (2017-01-16)
+## 1.4.3 (2018-01-13)
 
-- Use excerpt for meta tags (#1)
+### Enhancements
 
-## 1.1.0 (2017-01-07)
+- New TOC style
+- Gitalk support (@WangQiru)
+- Mermaid support
+- `site.paths` & `site.nav_lists` support absolute URL
 
-- Make feed path configurable
-- Empty `head_custom.html` to prevent adding comments
+## 1.4.2 (2017-12-10)
 
-## 1.0.1 (2017-01-07)
+### Enhancements
 
-- Fix RSS feed URL
-- Bump jekyll-sitemap to 1.0
+- Use new liquid syntax `{%-` `-%}` to avoid unnecessary output whitespace
+- Add paths.base config
 
-## 1.0.0 (2017-01-06)
+## 1.4.1 (2017-12-05)
 
-- Initial release
+### Enhancements
+
+- New color themes(Chocolate, Orange)
+
+### Bug Fixes
+
+- Issues 9: the _posts file can't recorded by git
+
+## 1.4.0 (2017-11-19)
+
+### Enhancements
+
+- Multi-language support
+
+### Bug Fixes
+
+- Table overflow-x smooth on iOS
+
+## 1.3.0 (2017-11-11)
+
+### Enhancements
+
+- Article tag supports special characters
+- Excerpts type (HTML | TEXT)
+- Titles on the phone become smaller
+- Styles change (table, code, blockquote)
+
+## 1.2.2 (2017-11-04)
+
+### Enhancements
+
+- MathJax Support
+- Add “Read more” link at the end of article excerpt.
+- 404 page
+
+### Bug Fixes
+
+- Fix Email link URL error
+- Fix Site Title link URL error
+- Fix table responsive style error
+
+## 1.2.1 (2017-10-27)
+
+### Enhancements
+
+- Optimize Article TOC
+
+### Bug Fixes
+
+- Issues 4: View count display error when the post key include `-` (@yuxianda)
+- Email url error
+
+## 1.2.0 (2017-10-22)
+
+### Enhancements
+
+- Article excerpt no more than 200 words
+- If `leancloud` is not set, 0 view won't display
+
+### Bug Fixes
+
+- Fix article TOC ’s display error at proper situation
+- Fix footer social buttons not in the center bug
+
+## 1.1.0 (2017-10-19)
+
+### Enhancements
+
+- Color variables
+- More color themes (dark, forest, ocean)
+
+## 1.0.0 (2017-10-17)
+
+### Enhancements
+
+- Better article directories
+- Dark color theme
