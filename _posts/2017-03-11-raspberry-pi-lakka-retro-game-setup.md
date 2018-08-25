@@ -4,7 +4,7 @@ key: 20170228
 tags: 树莓派
 ---
 
-[libretro]!(https://img1.doubanio.com/view/note/l/public/p41189429.webp)
+![](https://img1.doubanio.com/view/note/l/public/p41189429.webp)
 
 昨天突然很想买个gameboy怀念童年游戏（有毛病
 
@@ -22,6 +22,8 @@ Lakka是一个叫libretro的团队开发的，系统内核也叫libretro，Lakka
 
 [download lakka](http://www.lakka.tv/get/linux/)
 
+![](https://img1.doubanio.com/view/note/l/public/p41189439.webp)
+
 装好之后将tf卡放入树莓派启动
 
 首先去连接wifi，发现只要一进入wifi输密码的界面就会卡住，在他们页面上发现已经有人反映这个问题了，团队给的回复是在下一次发布新版的时候会修复这个bug。如果接的是游戏手柄一般不会发生这种情况，但是如果是用普通的电脑键盘是会这样的。
@@ -32,15 +34,15 @@ Lakka是一个叫libretro的团队开发的，系统内核也叫libretro，Lakka
 
 1. 先去设置里看看树莓派的ssh是不是开着（一般默认为开着吧但是我的不知道为什么是关闭的），要保持开着
 
-2. 用网线连接树莓派，上路由器查树莓派的ip地址
+1. 用网线连接树莓派，上路由器查树莓派的ip地址
 
-3. 在自己的电脑终端输入 ssh root@你的树莓派ip地址（比如：ssh root@192.168.1.100 这样的格式）
+1. 在自己的电脑终端输入 ssh root@你的树莓派ip地址（比如：ssh root@192.168.1.100 这样的格式）
 
-4. 输入默认密码root，就连接上了
+1. 输入默认密码root，就连接上了
 
-5. 终端输入 `connmanctl`
+1. 终端输入 `connmanctl`
 
-6. 接下来输入 `enable wifi`
+1. 接下来输入 `enable wifi`
 
 然后 `agent on`
 

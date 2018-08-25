@@ -1,5 +1,5 @@
 ---
-title: 用Macbook Air给树莓派3装Kali Linux系统备忘
+title: 在树莓派3上安装开源游戏模拟器Lakka备忘
 key: 20170228
 tags: 树莓派
 ---
@@ -16,9 +16,9 @@ Macbook Air 系统版本 macOs Sierra 10.12
 
 1. 从Kali Linux官网下载兼容树莓派的镜像：https://www.offensive-security.com/kali-linux-arm-images/
 
-2. 解压出img文件（放在下载文件夹里就行了）
+1. 解压出img文件（放在下载文件夹里就行了）
 
-3. tf卡连电脑，用磁盘工具格式化tf卡
+1. tf卡连电脑，用磁盘工具格式化tf卡
 
 
 
@@ -26,11 +26,11 @@ Macbook Air 系统版本 macOs Sierra 10.12
 
 1. 打开 Terminal
 
-2. 输入 `diskutil list`，回车
+1. 输入 `diskutil list`，回车
 
-3. 可以根据disk大小判断出哪个是tf卡的，或者也可以先退出tf卡查看diskutil list再插上tf卡，看看多了哪个就是tf卡了
+1. 可以根据disk大小判断出哪个是tf卡的，或者也可以先退出tf卡查看diskutil list再插上tf卡，看看多了哪个就是tf卡了
 
-4. 我的tf卡在disk2
+1. 我的tf卡在disk2
 
 开始写入
 
@@ -45,7 +45,7 @@ sudo diskutil unmountDisk /dev/disk[n]
 sudo diskutil unmountDisk /dev/disk2
 ```
 
-2. 在Terminal输入：
+1. 在Terminal输入：
 ```
 sudo dd bs=1m if=~/Downloads/这里写文件名.img of=/dev/rdisk[n]
 ```
@@ -61,13 +61,13 @@ sudo dd bs=1m if=~/Downloads/kali-2.1.2-rpi2.img of=/dev/rdisk2
 
 耐心等到提示已经写入完成
 
-3. ```
+1. ```
 sudo diskutil eject /dev/disk2
 ```
 
 写入完成后在终端输入这个弹出tf卡就行了，disk2的名字记得替换成自己的
 
-4. 写入到此就结束了。拔出tf卡，装入树莓派，接上屏幕，启动。
+1. 写入到此就结束了。拔出tf卡，装入树莓派，接上屏幕，启动。
 
 初始用户名是：root
 
@@ -104,17 +104,17 @@ mac上安装的是vnc viewer
 sudo apt-get install tightvncserver
 ```
 
-2. 修改vnc控制密码：
+1. 修改vnc控制密码：
 ```
 passwd tightvncserver
 ```
-3. 启动树莓派端vnc：
+1. 启动树莓派端vnc：
 ```
 sudo tightvncserver :1
 ```
 就会提示成功了，第一次一般线路是1
 
-4. 查看树莓派IP地址，连接：
+1. 查看树莓派IP地址，连接：
 
 直接进入自己家的路由器设置界面看树莓派的ip地址
 
