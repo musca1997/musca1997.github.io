@@ -8,7 +8,8 @@ tags: 读书
 本書豆瓣主頁：http://book.douban.com/subject/3142534/
 自己建的Cioran的豆瓣小組：http://www.douban.com/group/527604/
 
-蒼蠅吐槽：
+## 前言
+
   我花了很長時間讀完這本書。當然這并不是因為我是個嚴謹的人，而是因為我有拖延癥，懶得長時間專注於一本書……
   現在仔細想想，我讀這本書的時間幾乎集中於某段頻繁失眠的時期，據說Cioran寫這本書的那段時間也是頻繁失眠，所以也算是比較美麗的巧合了吧。
   關於這書我應該沒有什麼好說的，一般人看了標題大概都知道是在寫什麼吧。
@@ -18,14 +19,14 @@ tags: 读书
 
   這本書是Cioran在他二十歲出頭的時候完成的。原文是羅馬尼亞語，因為還沒有正式的中譯本，所以讀了英譯本，地址就在上面。選擇翻譯的內容是我當時有作標記的內容，當然我知道的我的萌點很奇怪，所以基本沒有劃到所謂重點，請見諒。水平不佳，試譯是為了練習，也是為了作個批註給未來的自己再看，還需找時間修改。如有明顯不妥之處還望指出。
 
-
+## 背景资料
 Cioran維基百科：http://zh.wikipedia.org/wiki/%E8%95%AD%E6%B2%86
 Cioran簡介：
   萧沆（Emil Cioran, 1911年－1995年），罗马尼亚旅法哲人，二十世纪怀疑论、虚无主义重要思想家。有罗马尼亚语及法语创作格言、断章体哲学著述传世，以文辞精雅新奇、思想深邃激烈见称。
   萧沆属天才早熟型、诗人气质哲学家。入读布加勒斯特大学期间，博览群书，尤其深受叔本华、尼采、舍斯托夫、杜斯妥也夫斯基等人影响。
 
 
-﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣正文分割線﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣
+## 试译文
 
 1.  On the contrary, it is much more true that through spirit man achieves disequilibrium, anxiety as well as grandeur. What do you expect those who don't know the dangers of life to know of the dangers of the spirit? To argue the case for spirit is a sign of great ignorance, just as to make a case for life is a sign of great disequilibrium. For the normal man, life is an undisputed reality; only the sick man is delighted by life and praises it so that he won't collapse. And what about the man who cannot praise either life or the spirit?
 恰恰相反，人更易通過精神變得偉大，而同時也會落入失衡、焦慮之境地。
@@ -44,8 +45,6 @@ Cioran簡介：
 
 5. Since there is no salvation either in existence or in nothingness, let this world with its eternal laws be smashed to pieces!
 既然在存在與虛無中都沒有救贖，那麼就讓這個世界與無休止的規則一起粉身碎骨！
-
-（哲學家都是中二病的樣子呢……）
 
 6. Real solitude implies a painful intermission in man's life, a lonely struggle with the angel of death.
 真切（真正）的孤獨意味著人的生命中的一段痛苦的間歇，意味著孤身與死亡天使作鬥爭。
@@ -87,8 +86,6 @@ Cioran簡介：
 17. Why always expect a definite stance, clear ideas, meaningful words? I feel as if I should spout fire in response to all the questions which were ever put, or not put, to me.
 為何總是期望明確的立場、清晰的想法、有意義的話語？
 我覺得我應當以噴火的形式來回答這些問題──不管它們是否都是指向我。
-
-（賣萌可恥……）
 
 18. After having struggled madly to solve all problems, after having suffered on the heights of despair, in the supreme hour of revelation, you will find that the only answer, the only reality, is silence.
 在歷經瘋狂鬥爭、經歷絕望之巔而終於解決問題之后的偉大時刻，你會發現，唯一的答案、唯一的現實，便是寂靜。
