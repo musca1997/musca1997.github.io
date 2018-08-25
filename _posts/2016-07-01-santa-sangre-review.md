@@ -11,6 +11,8 @@ I kept multitasking when I was watching the first half of this film named Santa 
 
 Just like Jodorowsky’s other films, this film is mainly about his childhood in a surreal way. Some famous directors at that times loved using theory of Freud’s to construct their films’ basic forms, so we can interpret and understand them in a freudian way.
 
+<!--more-->
+
 The father in Santa Sangre was a typical male chauvinist. In most films of this kind, the mother would always play a weak role but in this film it’s totally different — this mother was an aggressive woman just like her husband.
 
 The main effect of the father on the leading role — his son, was that he taught his son how to be sadistic (throwing knifes to lovers, etc) and got an eagle tattooed on his chest just like himself. In fact, this was a symbol of a typical male citizen in a society ruled by men. But here in this film, the difference was that those effects from father were actually far less than those from leading role’s mother, whose arms were once cut off by the raging husband.
