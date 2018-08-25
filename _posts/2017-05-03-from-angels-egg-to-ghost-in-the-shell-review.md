@@ -9,7 +9,7 @@ tags: 电影 film
 # From Angel’s Egg to Ghost in the Shell
 
 
-**Angel’s Egg**
+## Angel’s Egg
 
 In the anime movie Angel’s Egg, a girl walked around in the wasted city with an egg in her arms. The egg was her emotional anchor. She had always believed that a bird would hatch out one day and bring happiness. But we don’t know what was actually inside until a boy with a sword came to break it.
 
@@ -20,7 +20,7 @@ The boy broke the egg secretly on a night and found there was nothing in the egg
 In the last scene, we can find that the planet the girl was on was just a small place of the universe.
 
 
-**Religion**
+## Religion
 
 Archaeologists found some bones covered with red powder and gravel in old tombs of upper cave men, and that they were probably meant to send wishes to let them die peacefully. Just because there is always an end to a life, humans are fond of imagining life before and after death.
 
@@ -36,7 +36,7 @@ The boy’s action to break the egg were just like Nietzsche announcement of God
 After the ‘death of God’, those who are unwilling to take nothingness started trying to find out more about the rules behind the world, and that’s what eggs’ appearing after the girl’s death meant.
 
 
-**Ghost in the Shell and Existentialism**
+## Ghost in the Shell and Existentialism
 
 “Fear, restlessness, loneliness, darkness, and perhaps hope.”
 
@@ -51,14 +51,14 @@ Motoko was a cyborg, her parents died of car accident and she was born without a
 Puppeteer was born from the ocean of information. It was firstly only a ‘shell’, but it finally got the ‘ghost’ through the continuous connection to the network.
 
 
-**Dualism**
+## Dualism
 
 Dualism is a kind of ontology, and Descartes’ dualistic theory is that “people are composed of two parts — the mind and flesh”.
 
 Ghost in the Machine is a concept from Gilbert Ryle’s book in order to satire Descartes’ dualism. And the anime movie’s name Ghost in the Shell was taken from this.
 
 
-**Postmodernism**
+## Postmodernism
 
 The scene when Motoko was looking into her reflection on the water made me think of Plato’s Allegory of the Cave. In Plato’s theory, there are two kind of worlds. One world is Ideal World, and the other is Phenomenal World. Plato’s Allegory of the Cave means that humans are like prisoners, limited by their senses, so that the world they sense is just the projection of the world.
 
@@ -74,7 +74,7 @@ At the same time, the side effects of post-modernism appeared. Relativism it bro
 We can also see that from Motoko’s confusions, and also in Oshii’s early work Angel’s Egg.
 
 
-**More “Post” than Post-Humans**
+## More “Post” than Post-Humans
 
 There are so many films about Cyborg since last century. But we can’t simply take Ghost in the Shell as a general Cyborg movie.
 
