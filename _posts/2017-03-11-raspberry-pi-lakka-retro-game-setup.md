@@ -18,6 +18,8 @@ Lakka是一个叫libretro的团队开发的，系统内核也叫libretro，Lakka
 
 [lakka 官网](http://www.lakka.tv/)
 
+<!--more-->
+
 [github page](https://github.com/libretro/Lakka)
 
 [download lakka](http://www.lakka.tv/get/linux/)
