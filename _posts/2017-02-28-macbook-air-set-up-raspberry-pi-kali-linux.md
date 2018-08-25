@@ -18,7 +18,7 @@ Macbook Air 系统版本 macOs Sierra 10.12
 
 1. tf卡连电脑，用磁盘工具格式化tf卡
 
-
+<!--more-->
 
 ## 查看tf卡在哪个disk上**
 
