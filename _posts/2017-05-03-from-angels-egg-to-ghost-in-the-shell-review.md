@@ -15,6 +15,8 @@ In the anime movie Angel’s Egg, a girl walked around in the wasted city with a
 
 In Oshii Mamoru’s interview, he said that his work Angel’s Egg was inspired by the bible. “People in the Noah’s ark flied a bird and waited but they didn’t get anything in return. Humans died and the only person alive was that girl. She wandered in the freezing time and then the boy with a sword appeared.”
 
+<!--more-->
+
 The boy broke the egg secretly on a night and found there was nothing in the egg. When the girl got up she found that her egg was already broken. She couldn’t believe that actually happened and started to run, but unfortunately she fell off to the water and then died. When she died, many eggs appeared and floated.
 
 In the last scene, we can find that the planet the girl was on was just a small place of the universe.
