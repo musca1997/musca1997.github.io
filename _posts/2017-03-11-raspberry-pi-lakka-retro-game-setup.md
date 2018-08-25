@@ -4,7 +4,7 @@ key: 20170228
 tags: 树莓派
 ---
 
-![](https://img1.doubanio.com/view/note/l/public/p41189429.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/482847287597334529/p41189429.png)
 
 昨天突然很想买个gameboy怀念童年游戏（有毛病
 
@@ -22,7 +22,7 @@ Lakka是一个叫libretro的团队开发的，系统内核也叫libretro，Lakka
 
 [download lakka](http://www.lakka.tv/get/linux/)
 
-![](https://img1.doubanio.com/view/note/l/public/p41189439.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/482847371500191744/p41189439.png)
 
 装好之后将tf卡放入树莓派启动
 
