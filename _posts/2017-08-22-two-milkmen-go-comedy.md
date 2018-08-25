@@ -1,4 +1,5 @@
 ---
+layout: artile
 title: Two Milkmen Go Comedy
 key: 20170822
 tags: 游戏 game
