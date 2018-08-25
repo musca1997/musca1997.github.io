@@ -1,12 +1,9 @@
 ---
 layout: page
 titles:
-  en: Home
-  zh: 主页
-  zh-Hans: 主頁
-  zh-Hant: 主頁
-show_title: false
+  en: blog
 ---
+
 <div class="layout--home">
   {%- include article-list.html articles=paginator.posts type='common' show_excerpt=true excerpt_type=site.excerpt_type -%}
   {%- include paginator.html -%}
