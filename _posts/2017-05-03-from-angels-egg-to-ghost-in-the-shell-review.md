@@ -91,8 +91,9 @@ I personally think that Batou has a special feeling on Motoko even though they�
 “Batou, remember that whenever you connect to the network, I’m with you.”
 
 
+# 从《天使之卵》到《攻壳机动队》
 
-**天使之卵**
+## 天使之卵
 
 　　一个女孩在废城中四处游走，始终守护着一个蛋，蛋对她来说是她的支柱，她始终相信蛋会孵化出鸟，会带来福音。而实际这蛋中究竟有何物，在那个背着剑的少年将它打碎之前我们都无从得知。
 
@@ -103,7 +104,7 @@ I personally think that Batou has a special feeling on Motoko even though they�
 　　在故事的结尾，镜头的范围逐渐扩大，这个女孩所在的星球原来不过是广阔世界的一个小小的一处。
 
 
-**天使之卵与宗教**
+## 天使之卵与宗教
 
 　　关于宗教的起源，不同的学派说法不一。宗教在过去与政治关系紧密，时常被统治者用作维稳的工具，而不同的国家、民族因为有特定的宗教信仰也形成了各种意识上的共同体。
 
@@ -121,7 +122,7 @@ I personally think that Batou has a special feeling on Motoko even though they�
 
 
 
-**存在主义与攻壳机动队**
+## 存在主义与攻壳机动队
 
 　　“恐惧、不安、孤独、黑暗，或许还有希望。” ——《攻壳机动队》，1995
 
@@ -141,7 +142,7 @@ I personally think that Batou has a special feeling on Motoko even though they�
 
 
 
-**后现代主义与攻壳机动队**
+## 后现代主义与攻壳机动队
 
 　　素子在水中看到自己时的旁白“你我犹如隔镜观物，所见无非虚幻迷朦”让我想起了柏拉图的“洞穴比喻”。在柏拉图的理论里，世界分为理念世界和可感世界，而洞穴比喻即是，人类是囚徒，受限于他们的感官，故可感世界是人们对理念世界的感觉的投影。
 
@@ -157,7 +158,7 @@ I personally think that Batou has a special feeling on Motoko even though they�
 
 　　在素子身上我们看到了她类似的迷思。
 
-**攻壳机动队**
+## 攻壳机动队
 
 　　从上世纪开始，关于赛博格的电影就层出不穷，但是我们并不能仅仅把《攻壳机动队》当做一个普通的赛博格电影。
 
