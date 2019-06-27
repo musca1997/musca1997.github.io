@@ -21,7 +21,9 @@ tags: python 微博
 
 1. 先获取授权，授权机制详见微博授权机制说明
 
-2. 简单说就是访问`https://api.weibo.com/oauth2/authorize?client_id=这里填入准备工作中获得的app key就行&redirect_uri=https://api.weibo.com/oauth2/default.html` 授权，这时候地址末端就是授权得到的code
+2. 简单说就是访问
+`https://api.weibo.com/oauth2/authorize?client_id=这里填入准备工作中获得的app key就行&redirect_uri=https://api.weibo.com/oauth2/default.html` 授权，这时候地址末端就是授权得到的code
+
 ```
 import requests
 
@@ -37,6 +39,7 @@ r = requests.post(url, data=payload)
 
 print(r.text)
 ```
+
 至此返回的内容就有access token
 
 一般应用创建者本人授权的access token有效期有五年
@@ -50,6 +53,7 @@ print(r.text)
 现在不管是发文字还是图文都是调用/2/statuses/share.json
 
 直接用requests里的post就行了
+
 ```
 import requests
 
@@ -65,6 +69,7 @@ files={
 
 r = requests.post(url, data=payload, files=files)
 ```
+
 有一点要注意的是，"status"也即微博的内容必须要带上应用基本信息里的应用地址，否则就只会返回400错误
 
 看了半天写入接口的描述居然是“第三方分享链接到微博”，所以说白了发微博还是要加上一个url，感觉挺不适合私人bot使用场景的
