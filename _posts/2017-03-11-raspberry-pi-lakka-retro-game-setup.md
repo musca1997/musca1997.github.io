@@ -1,5 +1,5 @@
 ---
-title: 用Macbook Air给树莓派3装Kali Linux系统备忘
+title: 在树莓派3上安装开源游戏模拟器Lakka备忘
 key: 20170228
 tags: 树莓派
 ---
