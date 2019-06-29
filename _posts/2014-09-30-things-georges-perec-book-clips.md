@@ -4,7 +4,7 @@ key: 20140930
 tags: bookclips
 ---
 
-![](https://img1.doubanio.com/view/subject/l/public/s28322907.jpg)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594640383091277851/s28322907.png)
 
 
 1. It would be pleasant to come and sit there, every morning, after a shower, scarcely dressed. On the table there would be a sizeable stoneware butter dish, jars of marmalade, honey, toast, grapefruit cut in two. It would be early. It would be May, the start of a long summer's day.
