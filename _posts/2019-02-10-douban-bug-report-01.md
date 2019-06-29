@@ -14,7 +14,6 @@ tags: infosec
 
 整个过程正常是这样：**忘记密码--输入手机/邮箱请求验证码--输入验证码（四位）--修改密码**
 
-<!--more-->
 
 ## 1. 暴力破解手机验证码
 
@@ -23,6 +22,8 @@ tags: infosec
 在验证码提交成功后，response里会有一个随机生成vtoken，使用vtoken往 `https://accounts.douban.com/j/mobile/reset_password/complete` 入口发送修改密码request就能立即修改账号密码。
 
 ![](https://cdn.discordapp.com/attachments/447635828496138241/594639889153261582/p57978569.png)
+
+<!--more-->
 
 ## 2. 暴力破解邮箱验证码
 
