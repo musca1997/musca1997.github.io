@@ -22,7 +22,7 @@ tags: infosec
 
 在验证码提交成功后，response里会有一个随机生成vtoken，使用vtoken往 `https://accounts.douban.com/j/mobile/reset_password/complete` 入口发送修改密码request就能立即修改账号密码。
 
-![](https://img1.doubanio.com/view/note/l/public/p57978569.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594639889153261582/p57978569.png)
 
 ## 2. 暴力破解邮箱验证码
 
@@ -30,7 +30,7 @@ tags: infosec
 
 唯一麻烦的一点是大部分人的豆瓣账号同时绑定了手机和邮箱，所以通过了邮箱验证之后会返回一个需要再次认证手机的response如图
 
-![](https://img3.doubanio.com/view/note/l/public/p57978473.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594639947412275221/p57978473.png)
 
 
 有意思的一点是，虽然在web界面上到了这一步时手机号是有打一部分马赛克的，但是到了response里，在number的那一栏是明文显示手机号的。说明只要暴力破解邮箱即可得到这个邮箱所对应的手机号码。
@@ -39,5 +39,5 @@ tags: infosec
 
 ## 反馈
 
-![](https://img1.doubanio.com/view/note/l/public/p57982388.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594639999799001115/p57982388.png)
 
