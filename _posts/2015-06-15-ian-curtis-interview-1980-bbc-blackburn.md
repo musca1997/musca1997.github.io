@@ -4,7 +4,7 @@ key: 20150615
 tags: music
 ---
 
-![](https://img3.doubanio.com/view/note/large/public/p27442123.jpg)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594640529191600128/p27442123.png)
 
 音频地址：https://www.youtube.com/watch?v=7paP0EbYZD4
 
