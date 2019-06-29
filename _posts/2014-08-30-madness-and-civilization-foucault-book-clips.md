@@ -4,7 +4,7 @@ key: 20140830
 tags: bookclips
 ---
 
-![](https://img1.doubanio.com/view/subject/l/public/s2522399.jpg)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594640274534170625/s2522399.png)
 
 1. 过去，人们一度因疯癫而看不到死期将至，因此必须用死亡景象来恢复他的理智。现在，理智就表现为时时处处地谴责疯癫，
 
