@@ -4,16 +4,17 @@ key: 20190323
 tags: ipfs
 ---
 
+![](https://cdn.discordapp.com/attachments/447635828496138241/594637155310239763/p59176006.png)
 
-**维基百科**
+## 维基百科
 
 星际文件系统（InterPlanetary File System，缩写IPFS）是一个旨在创建持久且分布式存储和共享文件的网络传输协议。它是一种内容可寻址的对等超媒体分发协议。在IPFS网络中的节点将构成一个分布式文件系统。它是一个开放源代码项目，自2014年开始由Protocol Labs在开源社区的帮助下发展。其最初由Juan Benet设计。
 
-**官网**
+## 官网
 
 https://ipfs.io/
 
-**常见的误解**
+## 常见的误解
 
 有炒币的一般都知道ipfs，但是ipfs不是一种币。ipfs这个系统已经上线了，而filecoin是一个团队想对ipfs节点的贡献者进行奖励的一种数字货币，filecoin还没有上线，如果上线了它的挖矿模式就是作为一个节点，你可以贡献自己的硬盘存储别人的东西，并以此得到filecoin，而别人存储文件也需要支付一定的filecoin。
 
@@ -48,21 +49,21 @@ cd go-ipfs
 
 这时候终端输 `ipfs help` 出来了就是成功了
 
-![](https://img3.doubanio.com/view/note/l/public/p59176006.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594637155310239763/p59176006.png)
 
 接下来输入`ipfs init`，就会生成一个identity key，用来识别别人进行连接用的
 
-![](https://img3.doubanio.com/view/note/l/public/p59176061.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594637241163317283/p59176061.png)
 
 接下来就是联网了，`ipfs daemon`，这时候你可以另开一个终端上传文件、下载文件
 
-![](https://img3.doubanio.com/view/note/l/public/p59176130.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594637330266980373/p59176130.png)
 
 上传和下载文件也很简单，`ipfs add [filename]`，`ipfs get [file hash]`
 
 试了一下上传图片，直接从浏览器访问就可以看到 https://ipfs.io/ipfs/QmYkfd45jH9dTGVe2XDJD4RQhTfKv14Hbubv363oBMBrLu
 
-![](https://img3.doubanio.com/view/note/l/public/p59177261.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594637416485224460/p59177261.png)
 
 
 ipfs还有一个图形化界面，在daemon运行的时候直接访问 `http://localhost:5001/webui` 即可
