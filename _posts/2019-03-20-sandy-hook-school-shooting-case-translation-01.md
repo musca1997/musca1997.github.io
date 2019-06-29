@@ -327,4 +327,4 @@ Adam Lanza’s **Glock 20SF 10mm, Sig Sauer P226 9mm** and magazines recovered f
 
 Charlotte Bacon• Daniel Barden• Olivia Engel• Josephine Gay• Dylan Hockley• Madeline Hsu• Catherine Hubbard• Chase Kowalski• Jesse Lewis• Ana Márquez-Greene• James Mattioli• Grace McDonnell• Emilie Parker• Jack Pinto• Noah Pozner• Caroline Previdi• Jessica Rekos• Avielle Richman• Benjamin Wheeler• Allison Wyatt• Nancy Lanza• Rachel D’Avino• Dawn Hochsprung• Anne Marie Murphy• Lauren Rousseau• Mary Sherlach• Victoria Soto
 
-![](https://img1.doubanio.com/view/note/l/public/p59057829.webp)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594639233667432458/p59057829.png)
