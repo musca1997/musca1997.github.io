@@ -4,7 +4,7 @@ key: 20160726
 tags: bookclips
 ---
 
-![](https://img1.doubanio.com/view/note/large/public/p36376188.jpg)
+![](https://cdn.discordapp.com/attachments/447635828496138241/594640653049135105/p36376188.png)
 
   齐泽克在序言里提到 “在拉康举办讲座的最后几年，他的注意力已经从想象界（the imaginary）和符号界（the symbolic）的分裂，转向了实在界（the real）与现实（reality）的对立。在这里，现实是符号性地结构起来的。”，所以他在写此书的时候最开始就是讲the real和reality。
 
