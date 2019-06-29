@@ -14,7 +14,6 @@ tags: python 微博
 
 2. 在高级信息里设置回调URL为 https://api.weibo.com/oauth2/default.html
 
-<!--more-->
 
 ## 获取access token
 
@@ -44,6 +43,7 @@ print(r.text)
 
 一般应用创建者本人授权的access token有效期有五年
 
+<!--more-->
 
 ## 发微博
 
