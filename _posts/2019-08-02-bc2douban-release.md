@@ -17,7 +17,7 @@ anonfile
 
 ipfs 
 
-`https://ipfs.globalupload.io/QmW8TVBkaDJPmYPyeVNv24NPUMtYeBk6qxqi9JYsJVa5V9`
+`https://ipfs.io/ipfs/QmW8TVBkaDJPmYPyeVNv24NPUMtYeBk6qxqi9JYsJVa5V9`
 
 选择其中一个下载即可，其他途径下载的谨防恶意代码
 
