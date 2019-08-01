@@ -61,9 +61,12 @@ ipfs
 
 · 专辑类型默认为**专辑**
 
-· 本脚本纯免费，请勿用作恶意用途及商用
+· 如有信息上传错误，可以自己手动访问条目地址进行修改
 
-· 注意不要向他人泄露自己的cookies
+· 本脚本纯免费，请勿用作恶意用途及商用，请勿从来路不明的网址下载脚本
 
-· 本脚本完全开源，不放心运行.exe 文件的可以自己使用.py 源码，代码地址：`https://github.com/musca1997/bandcamp-to-douban`
+· 注意不要向他人泄露自己的**cookies**
 
+· 本脚本完全开源，不放心运行`.exe` 文件的可以自己使用`.py` 源码，代码地址：`https://github.com/musca1997/bandcamp-to-douban`
+
+· virustotal 扫描结果 `https://www.virustotal.com/gui/file/39d078b8eccb39d11a83bebea2449088f50480911bca1b0896e4d6eadca94a4a/detection`
