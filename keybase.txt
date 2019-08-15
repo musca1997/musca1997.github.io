@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/musca
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.eatshit.life
+  * I am musca (https://keybase.io/musca) on keybase.
+  * I have a public key with fingerprint 01A5 BC16 ED24 8729 DB9C  FC7C 8CAF C249 02A9 A3DE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e6d7fd5274ac6122e6c97e63b1cc3f302669a5de210cf2df873b93b82797bfbb0a",
+      "fingerprint": "01a5bc16ed248729db9cfc7c8cafc24902a9a3de",
+      "host": "keybase.io",
+      "key_id": "8cafc24902a9a3de",
+      "kid": "0101e6d7fd5274ac6122e6c97e63b1cc3f302669a5de210cf2df873b93b82797bfbb0a",
+      "uid": "ae647663ea7b11521beb43f9b2b1ac19",
+      "username": "musca"
+    },
+    "service": {
+      "hostname": "blog.eatshit.life",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1565882906,
+  "expire_in": 157680000,
+  "prev": "f36773ed90e9e6bea0255dc593131758c17b41710dd25bbd13075da8a6cb7104",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSBRRGN51K3O7ECRIlkZDUZHJnDM7c2Ym8KGIHirsYkZhbOc27uA6
+s83MWinahUqhgu53CsmHoqIrJVGhZT3YopgFXYTswSy6+NRDIdWM1FuPnZfD+f7v
++873//wdEyKhaLi6ICKWFa/uDT9tP5kObVhTm18nEJttFfQ6oYqPXDzJuOvFq0wm
+6IIIRMAVhgwmQxTDVAEQcoVqiCsSAZRKhiRCRdGwzDgEIjUgM1QkEU0iKkQaIgYh
+IhaKBMO0KrmTckzLG7HFMqFA4QzGVAQ1RjRqUERVig0KY5oIsYYlxn1hwnYDhR+O
+YJcXm7aP+Y/4SLx/8P9z7vSIHeZKDCmKxDEiAMgQEE5ikqERSACmQAuILncsXM19
+dnXapVioLxJ8qMakPJhq0MafMknalcUce27C9IqTphGkTjm2Z1M76ZcTnpdy9UDu
+bU0F/M2cxP84xYlpMX+SvqKGO65pW4IOfCb1zMAayIqsqlATlSKBb0mZDo+bAUNG
+iir6J/iH1/iWhqQgJHGmiVzjCuFYhLLMqKxJQAJIVilAJAYQEBmDMiEMSCKSGVax
+QomPxoSgt02WLeiyHxNX+pauWWlhL+1wof5hW8WoUDgaGjM6K9iwUDRn0t+921Wa
+PRzNv9t/s+/2cGvhvGj48O0FfV/0V9ndYfhL+PWzOXkvt3vuzjI5db1ubGYmWXah
+IjJOW/diTvO1/OzeczeEzon7hp3xR8Lh+tNTGqY1dvy4M3dGZlDyPjSlum4N5j43
+P54o7Pl8+e3RvYm3em//tjeXTz5qOXSipHl5u7c/+6U1syundNWyV0srzr5vWDk9
+kjlujU4Pvb+/saD26OHdBw9ULPy0pCDvwZAeudSsproyTZlv/QtaSgb6t5eWrxga
+nNLZeXBH59RTA+WWXvt1zMe8J8uPFC5+7KxYf+EYmv9mVu711jNXps7WvjXuefe6
+o62gat+Zi1nPrh7rWZsIL9owOX2+dWX599/zBkEb
+=dhG3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/musca
+
+==================================================================
