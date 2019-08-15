@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      :
+  name      : musca
   url       :
   avatar    : # path or url of avatar image
   bio       :
@@ -46,9 +46,11 @@ author:
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : https://github.com/musca1997
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
-
+  keybase   : https://keybase.io/musca
+  last.fm   : https://www.last.fm/user/cangying1997
+  bandcamp  : https://invalidmusca.bandcamp.com/
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
