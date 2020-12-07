@@ -7,7 +7,7 @@ tags: coding
 ## 下载地址
 **官方地址：**
 
-`https://blog.eatshit.life/downloads/bc2douban.zip`
+`https://eatshit.life/downloads/bc2douban.zip`
 
 **镜像：**
 
